@@ -4,6 +4,7 @@ title:  "Лабораторная работа №5"
 date:   2023-05-19 12:02:22 +0300
 categories: jekyll update
 permalink: "/lab5/"
+image: "/assets/img/19.05.2023.gif"
 ---
 ### Создание детали по чертежу
 
