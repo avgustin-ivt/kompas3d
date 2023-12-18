@@ -28,10 +28,10 @@ layout: base
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
-
+  
     {% for file in site.static_files %}
-      {% if file.image %}
-        <img src="{{file.path}}" alt="{file.name}">
+      {% if file.path | contains: '/assets/img/' and (file.extname == '.gif' or file.extname == '.png') %}
+        <img src="{{file.path | relative_url}}" alt="{{ file.name }}">
       {% endif %}
     {% endfor %}
   </div>
