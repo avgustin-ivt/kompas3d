@@ -28,13 +28,18 @@ layout: base
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
-    {%- if page.images and page.images.size > 0 -%}
-  <div class="post-images">
-    {% for image in page.images %}
-      <img src="{{ image | relative_url }}" alt="{{ page.title | escape }}" class="post-image" />
-    {% endfor %}
-  </div>
-{%- endif -%}
+  
+    {% if page.images.size > 0 %}
+      {% for image in page.images %}
+        <img src="{{ image | relative_url }}" alt="Image">
+      {% endfor %}
+    {% else %}
+      {% for file in site.static_files %}
+        {% if file.path contains "/assets/img/" %}
+          <img src="{{ file.path | relative_url }}" alt="{{ file.name }}">
+        {% endif %}
+      {% endfor %}
+    {% endif %}
   </div>
 
   {%- if site.disqus.shortname -%}
