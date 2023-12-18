@@ -8,6 +8,4 @@ image: "/assets/img/23.03.2023.gif"
 ---
 ### Создание детали по чертежу
 
-![23.03.2023](/assets/img/23.03.2023.gif)
-
 [*Скачать файл .m3d*](https://disk.yandex.ru/d/-1Ha1fYZk0me4A)
