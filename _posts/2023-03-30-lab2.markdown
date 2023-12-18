@@ -4,11 +4,14 @@ title:  "Лабораторная работа №2"
 date:   2023-03-30 12:02:22 +0300
 categories: jekyll update
 permalink: "/lab2/"
+images:
+  - "/assets/img/30.03.2023.gif"
+  - "/assets/img/30.03.2023cdw.png"
 ---
 ### Создание детали по чертежу, создание проекционных видов, разрезов
 
 ![30.03.2023](/assets/img/30.03.2023.gif)
 
-![30.03.2023 cdw](/assets/img/30.03.2023 cdw.png)
+![30.03.2023cdw](/assets/img/30.03.2023cdw.png)
 
 [*Скачать файлы .m3d .cdw*](https://disk.yandex.ru/d/Yf1qqi-7E0cxxA)
