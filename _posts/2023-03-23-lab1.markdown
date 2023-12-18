@@ -4,7 +4,8 @@ title:  "Лабораторная работа №1"
 date:   2023-03-23 12:02:22 +0300
 categories: jekyll update
 permalink: "/lab1/"
-image: "/assets/img/23.03.2023.gif"
+images:
+  - /assets/img/23.03.2023.gif
 ---
 ### Создание детали по чертежу
 
