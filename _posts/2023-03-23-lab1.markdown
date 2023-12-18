@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Лабораторная работа №1"
+date:   2023-03-23 12:02:22 +0300
+categories: jekyll update
+permalink: "/lab1/"
+---
+### Создание детали по чертежу
+
+![23.03.2023](/assets/img/23.03.2023.gif)
+
+[*Скачать файл .m3d*](https://disk.yandex.ru/d/-1Ha1fYZk0me4A)

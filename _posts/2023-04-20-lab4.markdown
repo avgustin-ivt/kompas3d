@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Лабораторная работа №4"
+date:   2023-04-20 12:02:22 +0300
+categories: jekyll update
+permalink: "/lab4/"
+---
+### Проектирование чертежа детали с геометрическими параметрами
+
+![20.04.2023](/assets/img/20.04.2023.png)
+
+[*Скачать файл .cdw*](https://disk.yandex.ru/d/MvmSqZtcSt-Vig)

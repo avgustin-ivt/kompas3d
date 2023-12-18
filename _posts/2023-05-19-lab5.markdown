@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Лабораторная работа №5"
+date:   2023-05-19 12:02:22 +0300
+categories: jekyll update
+permalink: "/lab5/"
+---
+### Создание детали по чертежу
+
+![19.05.2023](/assets/img/19.05.2023.gif)
+
+[*Скачать файл .m3d*](https://disk.yandex.ru/d/IksOrkX1rPQygA)
