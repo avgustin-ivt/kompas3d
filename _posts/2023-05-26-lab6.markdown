@@ -4,10 +4,9 @@ title:  "Лабораторная работа №6"
 date:   2023-05-26 12:02:22 +0300
 categories: jekyll update
 permalink: "/lab6/"
-image: "/assets/img/26.05.2023.gif"
+images:
+  - /assets/img/26.05.2023.gif
 ---
 ### Создание детали по чертежу
-
-![26.05.2023](/assets/img/26.05.2023.gif)
 
 [*Скачать файл .m3d*](https://disk.yandex.ru/d/GD3XCkgkQkWscQ)
