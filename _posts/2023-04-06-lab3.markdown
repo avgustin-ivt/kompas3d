@@ -4,10 +4,9 @@ title:  "Лабораторная работа №3"
 date:   2023-04-06 12:02:22 +0300
 categories: jekyll update
 permalink: "/lab3/"
-image: "/assets/img/06.04.2023.gif"
+images:
+  - /assets/img/06.04.2023.gif
 ---
 ### Создание детали по чертежу
-
-![06.04.2023](/assets/img/06.04.2023.gif)
 
 [*Скачать файл .m3d*](https://disk.yandex.ru/d/XXJcIj91SPfOgw)
